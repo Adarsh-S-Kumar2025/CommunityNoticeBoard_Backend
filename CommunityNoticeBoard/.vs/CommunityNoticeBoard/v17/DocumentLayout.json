@@ -1,0 +1,1305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\repository\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\repository\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\post\\queries\\getexpiredpostsbycommunityadmin\\getexpiredpostsbycommunityadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\post\\queries\\getexpiredpostsbycommunityadmin\\getexpiredpostsbycommunityadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\post\\queries\\getexpiredpostsbycommunityadmin\\getexpiredpostsbycommunityadminquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\post\\queries\\getexpiredpostsbycommunityadmin\\getexpiredpostsbycommunityadminquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\post\\queries\\getpostsbycommunityid\\getpostsbycommunityidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\post\\queries\\getpostsbycommunityid\\getpostsbycommunityidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|solutionrelative:communitynoticeboard\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\post\\queries\\getpostsbycommunityid\\getpostsbycommunityidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\post\\queries\\getpostsbycommunityid\\getpostsbycommunityidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|solutionrelative:communitynoticeboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\post\\commands\\createpost\\createpostcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\post\\commands\\createpost\\createpostcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211142019_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommunityNoticeBoard.Infrastructure\\Migrations\\20251211142019_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|solutionrelative:communitynoticeboard.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard\\controllers\\communitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|solutionrelative:communitynoticeboard\\controllers\\communitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\post\\commands\\createpost\\createpostcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\post\\commands\\createpost\\createpostcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\post\\commands\\createpost\\createpostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\post\\commands\\createpost\\createpostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.domain\\entities\\postimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|solutionrelative:communitynoticeboard.domain\\entities\\postimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|solutionrelative:communitynoticeboard.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.domain\\entities\\savedpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|solutionrelative:communitynoticeboard.domain\\entities\\savedpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|solutionrelative:communitynoticeboard.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.domain\\entities\\community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|solutionrelative:communitynoticeboard.domain\\entities\\community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\commands\\joincommunity\\joincommunitycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\commands\\joincommunity\\joincommunitycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\commands\\joincommunity\\joincommunitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\commands\\joincommunity\\joincommunitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\commands\\joincommunity\\joincommunitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\commands\\joincommunity\\joincommunitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\queries\\getallcommunitiesbyuser\\getallcommunitiesbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\queries\\getallcommunitiesbyuser\\getallcommunitiesbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\queries\\getallcommunitiesbyuser\\getallcommunitiesbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\queries\\getallcommunitiesbyuser\\getallcommunitiesbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\queries\\getallcommunitiesnotpartof\\getallcommunitiesnotpartofqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\queries\\getallcommunitiesnotpartof\\getallcommunitiesnotpartofqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\queries\\getallcommunitiesnotpartof\\getallcommunitiesnotpartofquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\queries\\getallcommunitiesnotpartof\\getallcommunitiesnotpartofquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\dtos\\communitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\dtos\\communitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|solutionrelative:communitynoticeboard\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\commands\\deletecommunity\\deletecommunitycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\commands\\deletecommunity\\deletecommunitycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\commands\\deletecommunity\\deletecommunitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\commands\\deletecommunity\\deletecommunitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\commands\\deletecommunity\\deletecommunitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\commands\\deletecommunity\\deletecommunitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\persistence\\configurations\\usercommunityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\persistence\\configurations\\usercommunityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\persistence\\configurations\\savedpostconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\persistence\\configurations\\savedpostconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\persistence\\configurations\\postconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\persistence\\configurations\\postconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.domain\\entities\\usercommunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|solutionrelative:communitynoticeboard.domain\\entities\\usercommunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE705204-B2F1-4D0C-8A15-2FA1C3DD21D7}|CommunityNoticeBoard.Domain\\CommunityNoticeBoard.Domain.csproj|solutionrelative:communitynoticeboard.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\commands\\createcommunitycommand\\createcommunitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\commands\\createcommunitycommand\\createcommunitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\user\\commands\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\user\\commands\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\commands\\createcommunitycommand\\createcommunitycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\commands\\createcommunitycommand\\createcommunitycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\user\\commands\\createuser\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\user\\commands\\createuser\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\community\\commands\\createcommunitycommand\\createcommunitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\community\\commands\\createcommunitycommand\\createcommunitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\user\\queries\\getuserbyid\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\user\\queries\\getuserbyid\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\user\\queries\\getuserbyid\\getuserbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\user\\queries\\getuserbyid\\getuserbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\dtos\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\dtos\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\user\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\user\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085807_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085807_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085726_initial1123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085726_initial1123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085404_initial112.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085404_initial112.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085212_initial11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085212_initial11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\persistence\\configurations\\communityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\persistence\\configurations\\communityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211084242_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommunityNoticeBoard.Infrastructure\\Migrations\\20251211084242_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211084107_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommunityNoticeBoard.Infrastructure\\Migrations\\20251211084107_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211083904_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommunityNoticeBoard.Infrastructure\\Migrations\\20251211083904_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211083457_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommunityNoticeBoard.Infrastructure\\Migrations\\20251211083457_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard\\communitynoticeboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|solutionrelative:communitynoticeboard\\communitynoticeboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\persistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\persistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\persistence\\configurations\\postimageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\persistence\\configurations\\postimageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|solutionrelative:communitynoticeboard\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\irepository\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\irepository\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\persistence\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\persistence\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\persistence\\configurations\\refreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\persistence\\configurations\\refreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\dtos\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\dtos\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\irepository\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\irepository\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\communitynoticeboard.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\communitynoticeboard.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D5D2255-9427-4CF8-A261-3D65DEB694C4}|CommunityNoticeBoard\\CommunityNoticeBoard.csproj|solutionrelative:communitynoticeboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.application\\features\\user\\queries\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5B824-FC1F-40E2-A8BB-F1A4324A9A51}|CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj|solutionrelative:communitynoticeboard.application\\features\\user\\queries\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|c:\\users\\adarsh.s\\source\\repos\\communitynoticeboard\\communitynoticeboard.infrastructure\\communitynoticeboard.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E5C659F-53E4-43B1-903A-D436D758568C}|CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj|solutionrelative:communitynoticeboard.infrastructure\\communitynoticeboard.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251209061155_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommunityNoticeBoard.Infrastructure\\Migrations\\20251209061155_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251209060953_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommunityNoticeBoard.Infrastructure\\Migrations\\20251209060953_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetExpiredPostsByCommunityAdminHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetExpiredPostsByCommunityAdmin\\GetExpiredPostsByCommunityAdminHandler.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetExpiredPostsByCommunityAdmin\\GetExpiredPostsByCommunityAdminHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetExpiredPostsByCommunityAdmin\\GetExpiredPostsByCommunityAdminHandler.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetExpiredPostsByCommunityAdmin\\GetExpiredPostsByCommunityAdminHandler.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIAwwDgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:54:01.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Repository\\TokenService.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Repository\\TokenService.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Repository\\TokenService.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Repository\\TokenService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:03:38.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetExpiredPostsByCommunityAdminQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetExpiredPostsByCommunityAdmin\\GetExpiredPostsByCommunityAdminQuery.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetExpiredPostsByCommunityAdmin\\GetExpiredPostsByCommunityAdminQuery.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetExpiredPostsByCommunityAdmin\\GetExpiredPostsByCommunityAdminQuery.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetExpiredPostsByCommunityAdmin\\GetExpiredPostsByCommunityAdminQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:52:25.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetPostsByCommunityIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetPostsByCommunityId\\GetPostsByCommunityIdQuery.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetPostsByCommunityId\\GetPostsByCommunityIdQuery.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetPostsByCommunityId\\GetPostsByCommunityIdQuery.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetPostsByCommunityId\\GetPostsByCommunityIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:29:01.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\Controllers\\PostController.cs",
+              "RelativeToolTip": "CommunityNoticeBoard\\Controllers\\PostController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:12:15.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Dtos\\PostDto.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Dtos\\PostDto.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Dtos\\PostDto.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Dtos\\PostDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:25:03.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetPostsByCommunityIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetPostsByCommunityId\\GetPostsByCommunityIdHandler.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetPostsByCommunityId\\GetPostsByCommunityIdHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetPostsByCommunityId\\GetPostsByCommunityIdHandler.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Post\\Queries\\GetPostsByCommunityId\\GetPostsByCommunityIdHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:30:06.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:32:35.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\IRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\IRepository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\IRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\IRepository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:34:39.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\Program.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard\\Program.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\Program.cs",
+              "RelativeToolTip": "CommunityNoticeBoard\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:09:10.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatePostCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Commands\\CreatePost\\CreatePostCommandHandler.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Post\\Commands\\CreatePost\\CreatePostCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Commands\\CreatePost\\CreatePostCommandHandler.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Post\\Commands\\CreatePost\\CreatePostCommandHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:06:34.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251211142019_initial1.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211142019_initial1.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211142019_initial1.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211142019_initial1.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211142019_initial1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:20:19.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Domain\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\Post.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Domain\\Entities\\Post.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA4wCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:00:01.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreatePostCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Commands\\CreatePost\\CreatePostCommandValidator.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Post\\Commands\\CreatePost\\CreatePostCommandValidator.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Commands\\CreatePost\\CreatePostCommandValidator.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Post\\Commands\\CreatePost\\CreatePostCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:06:18.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommunityController.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\Controllers\\CommunityController.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard\\Controllers\\CommunityController.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\Controllers\\CommunityController.cs",
+              "RelativeToolTip": "CommunityNoticeBoard\\Controllers\\CommunityController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwGkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:14:54.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreatePostCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Commands\\CreatePost\\CreatePostCommand.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Post\\Commands\\CreatePost\\CreatePostCommand.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Post\\Commands\\CreatePost\\CreatePostCommand.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Post\\Commands\\CreatePost\\CreatePostCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:06:05.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostImage.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\PostImage.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Domain\\Entities\\PostImage.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\PostImage.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Domain\\Entities\\PostImage.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:00:53.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Community.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\Community.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Domain\\Entities\\Community.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\Community.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Domain\\Entities\\Community.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:52:26.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Domain\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Domain\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:01:37.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SavedPost.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\SavedPost.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Domain\\Entities\\SavedPost.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\SavedPost.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Domain\\Entities\\SavedPost.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:02:07.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:06:30.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JoinCommunityCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\JoinCommunity\\JoinCommunityCommandValidator.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\JoinCommunity\\JoinCommunityCommandValidator.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\JoinCommunity\\JoinCommunityCommandValidator.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\JoinCommunity\\JoinCommunityCommandValidator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:48:50.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JoinCommunityCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\JoinCommunity\\JoinCommunityCommandHandler.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\JoinCommunity\\JoinCommunityCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\JoinCommunity\\JoinCommunityCommandHandler.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\JoinCommunity\\JoinCommunityCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:49:24.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JoinCommunityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\JoinCommunity\\JoinCommunityCommand.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\JoinCommunity\\JoinCommunityCommand.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\JoinCommunity\\JoinCommunityCommand.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\JoinCommunity\\JoinCommunityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:48:35.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetAllCommunitiesByUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesByUser\\GetAllCommunitiesByUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesByUser\\GetAllCommunitiesByUserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesByUser\\GetAllCommunitiesByUserQueryHandler.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesByUser\\GetAllCommunitiesByUserQueryHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:08:54.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAllCommunitiesByUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesByUser\\GetAllCommunitiesByUserQuery.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesByUser\\GetAllCommunitiesByUserQuery.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesByUser\\GetAllCommunitiesByUserQuery.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesByUser\\GetAllCommunitiesByUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:08:44.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetAllCommunitiesNotPartOfQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesNotPartOf\\GetAllCommunitiesNotPartOfQueryHandler.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesNotPartOf\\GetAllCommunitiesNotPartOfQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesNotPartOf\\GetAllCommunitiesNotPartOfQueryHandler.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesNotPartOf\\GetAllCommunitiesNotPartOfQueryHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T12:51:14.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetAllCommunitiesNotPartOfQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesNotPartOf\\GetAllCommunitiesNotPartOfQuery.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesNotPartOf\\GetAllCommunitiesNotPartOfQuery.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesNotPartOf\\GetAllCommunitiesNotPartOfQuery.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Queries\\GetAllCommunitiesNotPartOf\\GetAllCommunitiesNotPartOfQuery.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T12:50:57.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CommunityDto.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Dtos\\CommunityDto.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Dtos\\CommunityDto.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Dtos\\CommunityDto.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Dtos\\CommunityDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T12:53:21.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CommunityNoticeBoard\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:23:02.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeleteCommunityCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\DeleteCommunity\\DeleteCommunityCommandValidator.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\DeleteCommunity\\DeleteCommunityCommandValidator.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\DeleteCommunity\\DeleteCommunityCommandValidator.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\DeleteCommunity\\DeleteCommunityCommandValidator.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:38:01.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeleteCommunityCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\DeleteCommunity\\DeleteCommunityCommandHandler.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\DeleteCommunity\\DeleteCommunityCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\DeleteCommunity\\DeleteCommunityCommandHandler.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\DeleteCommunity\\DeleteCommunityCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:37:40.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DeleteCommunityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\DeleteCommunity\\DeleteCommunityCommand.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\DeleteCommunity\\DeleteCommunityCommand.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\DeleteCommunity\\DeleteCommunityCommand.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\DeleteCommunity\\DeleteCommunityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:37:21.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserCommunityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\UserCommunityConfiguration.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\UserCommunityConfiguration.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\UserCommunityConfiguration.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\UserCommunityConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:46:03.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SavedPostConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\SavedPostConfiguration.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\SavedPostConfiguration.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\SavedPostConfiguration.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\SavedPostConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:56:08.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PostConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\PostConfiguration.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\PostConfiguration.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\PostConfiguration.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\PostConfiguration.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:47:20.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserCommunity.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\UserCommunity.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Domain\\Entities\\UserCommunity.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\UserCommunity.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Domain\\Entities\\UserCommunity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:55:48.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateCommunityCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\CreateCommunityCommand\\CreateCommunityCommandHandler.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\CreateCommunityCommand\\CreateCommunityCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\CreateCommunityCommand\\CreateCommunityCommandHandler.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\CreateCommunityCommand\\CreateCommunityCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA/wCQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:28:05.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:11:17.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateCommunityCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\CreateCommunityCommand\\CreateCommunityCommandValidator.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\CreateCommunityCommand\\CreateCommunityCommandValidator.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\CreateCommunityCommand\\CreateCommunityCommandValidator.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\CreateCommunityCommand\\CreateCommunityCommandValidator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:28:17.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:46:09.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommandValidator.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommandValidator.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommandValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:11:39.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateCommunityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\CreateCommunityCommand\\CreateCommunityCommand.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\CreateCommunityCommand\\CreateCommunityCommand.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\Community\\Commands\\CreateCommunityCommand\\CreateCommunityCommand.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\Community\\Commands\\CreateCommunityCommand\\CreateCommunityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:27:54.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:58:21.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetUserByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQueryHandler.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:33:33.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetUserByIdQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQueryValidator.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQueryValidator.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQueryValidator.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:33:46.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Dtos\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Dtos\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Dtos\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Dtos\\RefreshTokenRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:49:33.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:11:05.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20251211085807_initial.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085807_initial.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085807_initial.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085807_initial.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085807_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:58:07.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20251211085726_initial1123.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085726_initial1123.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085726_initial1123.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085726_initial1123.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085726_initial1123.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:57:26.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:38:23.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20251211085404_initial112.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085404_initial112.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085404_initial112.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085404_initial112.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085404_initial112.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:54:04.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20251211085212_initial11.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085212_initial11.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085212_initial11.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085212_initial11.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211085212_initial11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:52:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CommunityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\CommunityConfiguration.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\CommunityConfiguration.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\CommunityConfiguration.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\CommunityConfiguration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:46:53.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20251211084242_initial1.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211084242_initial1.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211084242_initial1.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211084242_initial1.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211084242_initial1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:42:42.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20251211084107_initial.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211084107_initial.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211084107_initial.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211084107_initial.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211084107_initial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:41:07.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20251211083904_initial.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211083904_initial.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211083904_initial.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211083904_initial.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211083904_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:39:04.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20251211083457_initial.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211083457_initial.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211083457_initial.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251211083457_initial.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251211083457_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:34:57.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PostImageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\PostImageConfiguration.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\PostImageConfiguration.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\PostImageConfiguration.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\PostImageConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:53:28.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Persistence\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Persistence\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:15:42.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CommunityNoticeBoard.csproj",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\CommunityNoticeBoard.csproj",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard\\CommunityNoticeBoard.csproj",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\CommunityNoticeBoard.csproj",
+              "RelativeToolTip": "CommunityNoticeBoard\\CommunityNoticeBoard.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T06:07:24.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CommunityNoticeBoard\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:05:05.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Repository\\AuthService.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Repository\\AuthService.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Repository\\AuthService.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Repository\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:34:46.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\IRepository\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\IRepository\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\IRepository\\IAuthService.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\IRepository\\IAuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:20:03.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:30:19.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CommentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\CommentConfiguration.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\CommentConfiguration.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\CommentConfiguration.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\CommentConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:52:19.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RefreshTokenConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\RefreshTokenConfiguration.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\RefreshTokenConfiguration.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\RefreshTokenConfiguration.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Persistence\\Configurations\\RefreshTokenConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:51:35.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "TokenResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Dtos\\TokenResponseDto.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Dtos\\TokenResponseDto.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Dtos\\TokenResponseDto.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Dtos\\TokenResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:49:08.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\IRepository\\ITokenService.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\IRepository\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\IRepository\\ITokenService.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\IRepository\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:02:22.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Dtos\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Dtos\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Dtos\\LoginResponse.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Dtos\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:33:48.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CommunityNoticeBoard.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\CommunityNoticeBoard.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T06:03:42.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\appsettings.json",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard\\appsettings.json",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard\\appsettings.json",
+              "RelativeToolTip": "CommunityNoticeBoard\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T06:46:04.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:33:17.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CommunityNoticeBoard.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\CommunityNoticeBoard.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T07:01:53.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20251209061155_initial.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251209061155_initial.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251209061155_initial.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251209061155_initial.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251209061155_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:11:55.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20251209060953_initial.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251209060953_initial.cs",
+              "RelativeDocumentMoniker": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251209060953_initial.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\CommunityNoticeBoard\\CommunityNoticeBoard.Infrastructure\\Migrations\\20251209060953_initial.cs",
+              "RelativeToolTip": "CommunityNoticeBoard.Infrastructure\\Migrations\\20251209060953_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:09:53.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

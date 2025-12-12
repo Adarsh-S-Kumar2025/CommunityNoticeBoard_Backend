@@ -1,0 +1,15 @@
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\bin\Debug\net8.0\CommunityNoticeBoard.Application.deps.json
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\bin\Debug\net8.0\CommunityNoticeBoard.Application.dll
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\bin\Debug\net8.0\CommunityNoticeBoard.Application.pdb
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\bin\Debug\net8.0\CommunityNoticeBoard.Domain.dll
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\bin\Debug\net8.0\CommunityNoticeBoard.Domain.pdb
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\CommunityNoticeBoard.Application.csproj.AssemblyReference.cache
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\CommunityNoticeBoard.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\CommunityNoticeBoard.Application.AssemblyInfoInputs.cache
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\CommunityNoticeBoard.Application.AssemblyInfo.cs
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\CommunityNoticeBoard.Application.csproj.CoreCompileInputs.cache
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\Communit.6997764E.Up2Date
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\CommunityNoticeBoard.Application.dll
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\refint\CommunityNoticeBoard.Application.dll
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\CommunityNoticeBoard.Application.pdb
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\ref\CommunityNoticeBoard.Application.dll
