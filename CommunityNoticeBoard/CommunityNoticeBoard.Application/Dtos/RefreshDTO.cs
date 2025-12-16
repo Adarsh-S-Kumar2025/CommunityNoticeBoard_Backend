@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace CommunityNoticeBoard.Application.Dtos
 {
-    public class LoginResponse
-    {
-        public string AccessToken { get; set; } = null!;
-        public string RefreshToken { get; set; } = null!;
-    }
+    public record RefreshDTO
+    (
+        string token
+    );
 }

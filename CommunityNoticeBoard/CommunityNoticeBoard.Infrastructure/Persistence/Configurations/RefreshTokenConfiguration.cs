@@ -13,7 +13,7 @@ namespace CommunityNoticeBoard.Infrastructure.Persistence.Configurations
     {
         public void Configure(EntityTypeBuilder<RefreshToken> builder)
         {
-            builder.HasKey(rt => rt.RefreshTokenId);
+            builder.HasKey(rt => rt.Id);
 
             builder.Property(rt => rt.Token)
                    .IsRequired()
@@ -22,10 +22,17 @@ namespace CommunityNoticeBoard.Infrastructure.Persistence.Configurations
             builder.Property(rt => rt.ExpiresAt)
                    .IsRequired();
 
-            builder.Property(rt => rt.IsRevoked)
-                   .HasDefaultValue(false);
+            builder.Property(rt => rt.UserId)
+                    .IsRequired();
 
-        
+            builder.HasOne(rt => rt.User)
+                .WithMany(u => u.RefreshTokens)
+                .HasForeignKey(rt => rt.UserId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            builder.HasIndex(rt => rt.Token)
+                .IsUnique();
+
         }
     }
 }

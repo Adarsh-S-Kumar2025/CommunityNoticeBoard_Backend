@@ -18,6 +18,7 @@ using System.Threading.Tasks;
         public ICollection<Post> Posts { get; private set; } = new List<Post>();
         public ICollection<Comment> Comments { get; private set; } = new List<Comment>();
         public ICollection<SavedPost> SavedPosts { get; private set; } = new List<SavedPost>();
+        public ICollection<RefreshToken> RefreshTokens { get; private set; } = new List<RefreshToken>();
 
         private User() { }
 
@@ -28,4 +29,4 @@ using System.Threading.Tasks;
             PasswordHash = passwordHash;
         }
     }
-        }
+}

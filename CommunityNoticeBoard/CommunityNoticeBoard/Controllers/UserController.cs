@@ -22,7 +22,7 @@ namespace CommunityNoticeBoard.Controllers
             try { 
 
             var userId = await _mediator.Send(command);
-            return CreatedAtAction(nameof(GetById), new { id = userId }, null);
+            return Ok(new { message = "User created successfully" });
         }
             catch (FluentValidation.ValidationException ex)
             {

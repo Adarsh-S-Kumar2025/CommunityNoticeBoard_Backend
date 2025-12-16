@@ -10,3 +10,4 @@ C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\
 C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\CommunityNoticeBoard.Domain.pdb
 C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\ref\CommunityNoticeBoard.Domain.dll
 C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\CommunityNoticeBoard.Domain.csproj.AssemblyReference.cache
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\CommunityNoticeBoard.Domain.sourcelink.json

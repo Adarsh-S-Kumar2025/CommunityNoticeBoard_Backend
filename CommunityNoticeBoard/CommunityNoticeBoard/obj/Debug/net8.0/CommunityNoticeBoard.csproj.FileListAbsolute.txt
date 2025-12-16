@@ -165,3 +165,5 @@ C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard\bin\Deb
 C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard\obj\Debug\net8.0\CommunityNoticeBoard.sourcelink.json
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

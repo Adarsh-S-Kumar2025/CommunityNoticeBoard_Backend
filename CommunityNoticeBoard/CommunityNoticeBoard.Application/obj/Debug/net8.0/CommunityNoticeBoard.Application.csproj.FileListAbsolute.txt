@@ -13,3 +13,4 @@ C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Applica
 C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\refint\CommunityNoticeBoard.Application.dll
 C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\CommunityNoticeBoard.Application.pdb
 C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\ref\CommunityNoticeBoard.Application.dll
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Application\obj\Debug\net8.0\CommunityNoticeBoard.Application.sourcelink.json

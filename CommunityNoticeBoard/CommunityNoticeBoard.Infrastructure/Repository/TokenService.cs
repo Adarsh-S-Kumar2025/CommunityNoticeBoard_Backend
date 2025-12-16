@@ -2,6 +2,7 @@
 using CommunityNoticeBoard.Domain.Entities;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
@@ -16,29 +17,36 @@ namespace CommunityNoticeBoard.Infrastructure.Repository
     public class TokenService : ITokenService
     {
         private readonly IConfiguration _configuration;
+        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public TokenService(IConfiguration configuration)
+        public TokenService(IConfiguration configuration, IHttpContextAccessor httpContextAccessor)
         {
             _configuration = configuration;
+            _httpContextAccessor = httpContextAccessor;
         }
-        public string GenerateAccessToken(User user)
-        {
-            var jwtSettings = _configuration.GetSection("JwtSettings");
-            var claims = new[]
-            {
-                new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
-                new Claim(JwtRegisteredClaimNames.Email, user.Email),
-                new Claim("name", user.Name)
-            };
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings["Secret"]!));
-            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
-            var token = new JwtSecurityToken(
-                issuer: jwtSettings["Issuer"],
-                audience: jwtSettings["Audience"],
-                claims: claims,
-                expires: DateTime.UtcNow.AddMinutes(Convert.ToDouble(jwtSettings["AccessTokenExpirationMinutes"])),
-                signingCredentials: creds
+        public string GenerateAccessToken(int userId, string userEmail)
+        {
+            string? secretKey = _configuration["JwtSettings:SecretKey"];
+            SymmetricSecurityKey securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey!));
+            string? issuer = _configuration["JwtSettings:Issuer"];
+            string? audience = _configuration["JwtSettings:Audience"];
+            int expiryInMinutes = Convert.ToInt32(_configuration["JwtSettings:ExpiryInMinutes"]);
+
+            SigningCredentials credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+
+            var Claims = new List<Claim>()
+        {
+          new Claim(ClaimTypes.NameIdentifier, userId.ToString()),
+          new Claim(ClaimTypes.Email, userEmail),
+        };
+
+            JwtSecurityToken token = new JwtSecurityToken(
+                issuer: issuer,
+                audience: audience,
+                claims: Claims,
+                expires: DateTime.UtcNow.AddMinutes(expiryInMinutes),
+                signingCredentials: credentials
             );
 
             return new JwtSecurityTokenHandler().WriteToken(token);
@@ -46,43 +54,37 @@ namespace CommunityNoticeBoard.Infrastructure.Repository
 
         public RefreshToken GenerateRefreshToken(int userId)
         {
-            var jwtSettings = _configuration.GetSection("JwtSettings");
-            var refreshToken = new RefreshToken(
-                token: Convert.ToBase64String(RandomNumberGenerator.GetBytes(64)),
-                expiresAt: DateTime.UtcNow.AddDays(Convert.ToDouble(jwtSettings["RefreshTokenExpirationDays"])),
-                userId: userId
-            );
 
-            return refreshToken;
+            int expiresInDays = Convert.ToInt32(_configuration["JwtSettings:RefreshTokenExpiryInDays"]);
+            var randomNumber = new byte[32];
+            using (var rng = RandomNumberGenerator.Create())
+            {
+                rng.GetBytes(randomNumber);
+
+                return new RefreshToken
+                (
+                    userId: userId,
+                    token: Convert.ToBase64String(randomNumber),
+                    expiresAt: DateTime.UtcNow.AddDays(expiresInDays)
+                );
+            }
         }
 
-        public ClaimsPrincipal? ValidateToken(string token)
+        public void SetRefreshTokenInCookies(RefreshToken refreshToken)
         {
-            var jwtSettings = _configuration.GetSection("JwtSettings");
-            var tokenHandler = new JwtSecurityTokenHandler();
-            var key = Encoding.UTF8.GetBytes(jwtSettings["Secret"]!);
 
-            try
+            var cookieOptions = new CookieOptions
             {
-                var principal = tokenHandler.ValidateToken(token, new TokenValidationParameters
-                {
-                    ValidateIssuer = true,
-                    ValidateAudience = true,
-                    ValidateLifetime = true,
-                    ValidateIssuerSigningKey = true,
-                    ValidIssuer = jwtSettings["Issuer"],
-                    ValidAudience = jwtSettings["Audience"],
-                    IssuerSigningKey = new SymmetricSecurityKey(key),
-                    ClockSkew = TimeSpan.Zero
-                }, out SecurityToken validatedToken);
+                HttpOnly = true,
+                Expires = DateTime.UtcNow.AddDays(refreshToken.ExpiresAt.Day)
+//Expires = refreshToken.ExpiresAt   // FIXED
+            };
+            _httpContextAccessor.HttpContext.Response.Cookies.Append("RefreshToken", refreshToken.Token, cookieOptions);
+        }
 
-                return principal;
-            }
-            catch
-            {
-                return null;
-            }
-        
-    }
+        public void RemoveRefreshTokenFromCookies()
+        {
+            _httpContextAccessor.HttpContext.Response.Cookies.Delete("RefreshToken");
+        }
     }
 }

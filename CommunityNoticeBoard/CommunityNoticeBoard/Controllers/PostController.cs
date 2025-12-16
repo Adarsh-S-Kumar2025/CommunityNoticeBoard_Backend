@@ -1,4 +1,5 @@
 ﻿using CommunityNoticeBoard.Application.Features.Post.Commands.CreatePost;
+using CommunityNoticeBoard.Application.Features.Post.Commands.DeletePost;
 using CommunityNoticeBoard.Application.Features.Post.Queries.GetExpiredPostsByCommunityAdmin;
 using CommunityNoticeBoard.Application.Features.Post.Queries.GetPostsByCommunityId;
 using MediatR;
@@ -25,7 +26,7 @@ namespace CommunityNoticeBoard.Controllers
             try
             {
                 var postId = await _mediator.Send(command);
-                return Ok("Post created successfully");
+                return Ok(new { message = "User created successfully" });
             }
             catch (FluentValidation.ValidationException ex)
             {
@@ -56,6 +57,31 @@ namespace CommunityNoticeBoard.Controllers
 
             var result = await _mediator.Send(query);
             return Ok(result);
+        }
+
+        [HttpDelete("{postId}")]
+        public async Task<IActionResult> DeletePost(
+            int postId,
+            [FromQuery] int userId)
+        {
+            try
+            {
+                var result = await _mediator.Send(new DeletePostCommand
+                {
+                    PostId = postId,
+                    UserId = userId
+                });
+
+                return Ok(new { Deleted = result });
+            }
+            catch (FluentValidation.ValidationException ex)
+            {
+                return BadRequest(ex.Errors.Select(e => e.ErrorMessage));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
     }
 }

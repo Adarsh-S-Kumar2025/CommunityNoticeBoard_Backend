@@ -7,18 +7,18 @@ using System.Threading.Tasks;
     {
         public class RefreshToken
         {
-            public int RefreshTokenId { get; private set; }
+            public int Id { get; private set; }
             public int UserId { get; private set; }
             public User User { get; private set; }
 
             public string Token { get; private set; }
             public DateTime ExpiresAt { get; private set; }
 
-            public bool IsRevoked { get; private set; }
+            public bool IsRevoked { get; private set; } = false;
 
-            private RefreshToken() { }
+        private RefreshToken() { }
 
-            public RefreshToken(string token, DateTime expiresAt, int userId)
+            public RefreshToken(int userId,string token, DateTime expiresAt)
             {
                 Token = token;
                 ExpiresAt = expiresAt;

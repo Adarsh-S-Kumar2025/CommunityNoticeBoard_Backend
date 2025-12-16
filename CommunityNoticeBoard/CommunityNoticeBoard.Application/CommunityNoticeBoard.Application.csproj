@@ -18,4 +18,9 @@
     <ProjectReference Include="..\CommunityNoticeBoard.Domain\CommunityNoticeBoard.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Comment\Commands\DeleteComment\" />
+    <Folder Include="Features\Comment\Commands\UpdateComment\" />
+  </ItemGroup>
+
 </Project>

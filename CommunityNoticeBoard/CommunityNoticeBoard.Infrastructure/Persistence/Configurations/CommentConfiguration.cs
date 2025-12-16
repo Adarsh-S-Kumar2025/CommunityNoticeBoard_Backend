@@ -20,7 +20,7 @@ namespace CommunityNoticeBoard.Infrastructure.Persistence.Configurations
             builder.HasKey(c => c.Id);
 
             // Properties
-            builder.Property(c => c.Text)
+            builder.Property(c => c.Content)
                 .IsRequired()
                 .HasMaxLength(1000);
 

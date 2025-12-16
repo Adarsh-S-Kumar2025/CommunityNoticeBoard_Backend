@@ -1,0 +1,73 @@
+﻿using CommunityNoticeBoard.Application.IRepository;
+using Microsoft.AspNetCore.Http;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Claims;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CommunityNoticeBoard.Infrastructure.Repository
+{
+    public class CurrentUser : ICurrentUser
+    {
+        private readonly IHttpContextAccessor _httpContextAccessor;
+        public CurrentUser(IHttpContextAccessor httpContextAccessor)
+        {
+            _httpContextAccessor = httpContextAccessor;
+        }
+
+        public int UserId
+        {
+            get
+            {
+                var userIdString = _httpContextAccessor.HttpContext?.User?.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+                if (int.TryParse(userIdString, out int userId))
+                {
+                    return userId;
+                }
+                throw new Exception("User ID not found in the current context.");
+
+            }
+        }
+
+        public string Role
+        {
+            get
+            {
+                var role = _httpContextAccessor.HttpContext?.User?.FindFirst(ClaimTypes.Role)?.Value;
+                if (role != null)
+                {
+                    return role;
+                }
+                throw new Exception("User Role not found in the current context.");
+            }
+        }
+
+        public string Email
+        {
+            get
+            {
+                var email = _httpContextAccessor.HttpContext?.User?.FindFirst(ClaimTypes.Email)?.Value;
+                if (email != null)
+                {
+                    return email;
+                }
+                return string.Empty;
+            }
+        }
+
+        public string RefreshToken
+        {
+            get
+            {
+                var refreshToken = _httpContextAccessor.HttpContext?.Request.Cookies["RefreshToken"];
+                if (refreshToken != null)
+                {
+                    return refreshToken;
+                }
+                throw new Exception("Refresh Token not found in the current context.");
+            }
+        }
+    }
+}

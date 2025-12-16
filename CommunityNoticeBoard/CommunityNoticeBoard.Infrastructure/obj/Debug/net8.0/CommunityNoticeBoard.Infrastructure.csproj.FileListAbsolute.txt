@@ -17,3 +17,4 @@ C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Infrast
 C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Infrastructure\obj\Debug\net8.0\CommunityNoticeBoard.Infrastructure.pdb
 C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Infrastructure\obj\Debug\net8.0\CommunityNoticeBoard.Infrastructure.genruntimeconfig.cache
 C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Infrastructure\obj\Debug\net8.0\ref\CommunityNoticeBoard.Infrastructure.dll
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Infrastructure\obj\Debug\net8.0\CommunityNoticeBoard.Infrastructure.sourcelink.json

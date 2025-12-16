@@ -10,10 +10,9 @@ namespace CommunityNoticeBoard.Application.IRepository
 {
     public interface ITokenService
     {
-        string GenerateAccessToken(User user);
-        RefreshToken GenerateRefreshToken(int userId);
-
-        /// Validates the access token and returns claims principal.
-        ClaimsPrincipal? ValidateToken(string token);
+        public string GenerateAccessToken(int userId, string userEmail );
+        public RefreshToken GenerateRefreshToken(int userId);
+        public void SetRefreshTokenInCookies(RefreshToken refreshToken);
+        public void RemoveRefreshTokenFromCookies();
     }
 }
