@@ -1,0 +1,13 @@
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\bin\Debug\net8.0\CommunityNoticeBoard.Domain.deps.json
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\bin\Debug\net8.0\CommunityNoticeBoard.Domain.dll
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\bin\Debug\net8.0\CommunityNoticeBoard.Domain.pdb
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\CommunityNoticeBoard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\CommunityNoticeBoard.Domain.AssemblyInfoInputs.cache
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\CommunityNoticeBoard.Domain.AssemblyInfo.cs
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\CommunityNoticeBoard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\CommunityNoticeBoard.Domain.dll
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\refint\CommunityNoticeBoard.Domain.dll
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\CommunityNoticeBoard.Domain.pdb
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\ref\CommunityNoticeBoard.Domain.dll
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\CommunityNoticeBoard.Domain.csproj.AssemblyReference.cache
+C:\Users\adarsh.s\source\repos\CommunityNoticeBoard\CommunityNoticeBoard.Domain\obj\Debug\net8.0\CommunityNoticeBoard.Domain.sourcelink.json
